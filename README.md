@@ -1,6 +1,8 @@
-This repository contains the code for the thesis project on speech act classification in tax service letters from the tax domain. This thesis project is completed in cooperation with the Belastingdienst. Due to confidentiality reasons, the data used for this project will not be published. 
+README
 
-This repository contains the final thesis and the supporting code in jupyter notebooks. In this way, the coding steps can be followed without revealing too much of the data.
+This repository contains the code for the thesis project on speech act classification in tax service letters from the tax domain. This thesis project was conducted as a part of the MA: Text Mining programme at the Vrije Universiteit (VU) Amsterdam. This thesis project is completed in cooperation with the Belastingdienst (Dutch tax administration). Due to confidentiality reasons, the data used for this project will not be published. 
+
+This repository contains the thesis code in jupyter notebooks. In this way, the coding steps can be followed without revealing too much of the data.
 
 It is adviced to not run the notebooks since the output will disappear.
 
